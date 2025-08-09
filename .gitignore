@@ -1,0 +1,5 @@
+.env
+venv/
+flipkart_recommender.egg-info
+__pycache__/
+*.pyc
